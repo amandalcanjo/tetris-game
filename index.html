@@ -1,0 +1,57 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://img.icons8.com/ios-filled/50/000000/tetris.png" SameSite="Strict">
+    <link rel=" stylesheet" href="styles.css">
+    <title>Tetris</title>
+</head>
+
+<body>
+    <h1 class="title">
+        <span class="">T</span>
+        <span class="">E</span>
+        <span class="">T</span>
+        <span class="">R</span>
+        <span class="">I</span>
+        <span class="">S</span>
+    </h1>
+    <div class="container">
+        <div class="scoreContainer">
+            <h2>Pontos</h2>
+            <div class="score">0</div>
+            <button id="startBtn">Começar / Pausar</button>
+            <button id="restartBtn">Recomeçar</button>
+        </div>
+
+        <div class="container">
+            <div id="grid"></div>
+
+        </div>
+        <div class="miniGrid__Container">
+            <div class="miniGrid">
+                <h2>Próximo</h2>
+                <div class="nextTetromino">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <p class="author">
+        Feito com ❤️ por <a target="_blank" href="https://www.linkedin.com/in/amanda-alcanjo/">Amanda Alcanjo</a>
+        © 2022
+    </p>
+
+
+    <audio class="themeMusic" src="audio/TetrisSoundtrack.mp3" loop="true">
+    </audio>
+    <audio class="clearBlock" src="audio/clearblock.mp3">
+    </audio>
+    <audio class="gameOverAudio" src="audio/Mario Dying Sound.mp3">
+    </audio>
+
+    <script src="dist/app.js"></script>
+</body>
+
+</html>
