@@ -17,10 +17,11 @@
 </div>
 
 ### ❤️ Layout:
-<img align="centeer" alt="amanda-html" height="400" widht="400" src="https://user-images.githubusercontent.com/81193788/188011854-381720ce-d057-4001-96d0-90cd739d363b.jpg"/>
+<img align="centeer" alt="amanda-html" height="350" widht="350" src="https://user-images.githubusercontent.com/81193788/188226021-4022bfeb-cc8c-4d1b-98dd-e3c6458dda9b.gif"/>
 
 ### 👩 Autor: 
 Amanda Alcanjo<p>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alcanjo/)
+
 
 
