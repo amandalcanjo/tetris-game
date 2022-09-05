@@ -316,14 +316,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     function gameOver(currentPosition) {
         if (currentPosition <= 30) {
-            themeMusic.pause();
             gameOverAudio.play();
             clearInterval(timeSet);
         }
     }
     startBtn.addEventListener("click", () => {
         if (timeSet == undefined) {
-            themeMusic.play();
             timeSet = setInterval(() => moveDown(), 800);
         }
         else {
