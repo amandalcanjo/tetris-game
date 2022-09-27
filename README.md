@@ -6,6 +6,7 @@
 - [Tetris Project](https://tetris-game-bymandy.netlify.app/)
 
 ## Tech/Framework Used
+* Typescript
 * HTML
 * CSS
 * JavaScript
